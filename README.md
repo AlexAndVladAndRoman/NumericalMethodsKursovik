@@ -1,0 +1,2 @@
+# NumericalMethodsKursovik
+OMEGALUL
